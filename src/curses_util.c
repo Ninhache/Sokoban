@@ -46,12 +46,12 @@ void initialiser_couleur(int couleur) {
 // Calcule le centre d'une zone rectangulaire 
 // Cette zone rectangulaire est définie comme suit :
 /*
-	  gauche (axe X)
-		v
-haut  > +-----------------+   ^
-(axe Y)	|                 |   |
+	  	gauche (axe X)
+			v
+	haut  > +-----------------+   ^
+	(axe Y)	|                 |   |
 		|                 |   |
-		|        X        |	  | hauteur (axe Y)
+		|        X        |   | hauteur (axe Y)
 		|   x;y (centre)  |   |
 		|                 |   |
 		+-----------------+   V
